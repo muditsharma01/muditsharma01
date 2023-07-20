@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 🤝 I’m looking for help with **Java Project (Frontend & Backend)**
+- 🤝 I’m looking for help with **Projects (Frontend Development)**
 
-- 💬 Ask me about **JAVA Programming and DSA solving techniques**
 
 - 📫 How to reach me **muditshar001@gmail.com**
 
