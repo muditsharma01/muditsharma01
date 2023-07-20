@@ -27,7 +27,7 @@
   
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-   <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="React" width="40" height="40"/> 
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJq83Cik7S_7xvV9_iBjqcx7w8DjzHGZrkg-XWt3sw&s" alt="React" width="40" height="40"/> 
   
    
   
