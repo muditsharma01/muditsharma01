@@ -29,8 +29,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
    <img src="![image](https://user-images.githubusercontent.com/117513215/232430863-b5677b17-bb84-42e5-b0c3-3589d38efebd.png)" alt="html5" width="40" height="40"/> 
   
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://w1.pngwing.com/pngs/425/99/png-transparent-java-logo-programming-language-selenium-computer-software-java-class-file-computer-programming-software-developer-software-framework.png)" alt="java" width="40" height="40"/>  
+   
   
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png)" alt="javascript" width="40" height="40"/> </p>
+  <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="javascript" width="40" height="40"/> </p>
 
 
